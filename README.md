@@ -1,5 +1,5 @@
 
-  # Dependencies
+  # Required Dependencies
 
   ## Django
     
