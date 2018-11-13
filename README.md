@@ -1,7 +1,7 @@
 
   # Dependencies
 
-  ## Django
+  # Django
     
    ## App
     
