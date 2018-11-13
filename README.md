@@ -2,7 +2,7 @@
 
 # Dependecncies:
 
-    # DJango:
+    # Django:
 
     # App
 
