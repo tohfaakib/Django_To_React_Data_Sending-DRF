@@ -5,7 +5,7 @@
 
 # DJango:
 
-    # App
+    #App
 
      - Dgango Rest Framework (pip install djangorestframework)
      - django-cors-headers (pip install django-cors-headers)
