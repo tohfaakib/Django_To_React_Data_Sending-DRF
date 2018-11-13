@@ -3,13 +3,13 @@
 
   ## Django
     
-   ### App
+   ## App
     
    - Django Rest Framework (pip install djangorestframework)
    - django-cors-headers (pip install django-cors-headers)
      
     
-   ### Middleware
+   ## Middleware
     
     MIDDLEWARE = [
        ...................................,
@@ -19,7 +19,7 @@
     ]
 
      
-  ### RestFrameWork_Permission
+  ## RestFrameWork_Permission
      
     REST_FRAMEWORK = {
       'DEFAULT_PERMISSION_CLASSES': (
