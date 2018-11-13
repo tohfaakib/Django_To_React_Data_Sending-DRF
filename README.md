@@ -3,7 +3,7 @@
 
   # Django
     
-   ## Third Party App
+   ### Third Party App
     
    - Django Rest Framework (pip install djangorestframework)
    - django-cors-headers (pip install django-cors-headers)
