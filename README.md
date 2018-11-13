@@ -1,6 +1,5 @@
-# Django_To_React_Data_Sending-(Django Rest Framework)
 
-  # Dependencies
+  ## Dependencies
 
   # Django :
     
