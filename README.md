@@ -3,13 +3,13 @@
 
   ## Django
     
-   ### Third Party App
+   #### Third Party App
     
    - Django Rest Framework (pip install djangorestframework)
    - django-cors-headers (pip install django-cors-headers)
      
     
-   ### Middleware
+   #### Middleware
     
     MIDDLEWARE = [
        ...................................,
@@ -19,7 +19,7 @@
     ]
 
      
-   ### RestFrameWork Permission
+   #### RestFrameWork Permission
      
     REST_FRAMEWORK = {
       'DEFAULT_PERMISSION_CLASSES': (
@@ -31,6 +31,6 @@
     
    ## React
    
-   ### Packages
+   #### Packages
    - axios (npm install axios)
     
