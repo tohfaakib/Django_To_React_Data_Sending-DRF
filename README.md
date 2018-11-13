@@ -2,26 +2,26 @@
 
 # Dependecncies:
 
-# DJango:
+    # DJango:
 
-# App
+    # App
 
-- Dgango Rest Framework (pip install djangorestframework)
-- django-cors-headers (pip install django-cors-headers)
+    - Dgango Rest Framework (pip install djangorestframework)
+    - django-cors-headers (pip install django-cors-headers)
 
-# Middleware
+    # Middleware
 
-MIDDLEWARE = [
-................................,
-'corsheaders.middleware.CorsMiddleware',
-'django.middleware.common.CommonMiddleware',
-..................................,
-]
+    MIDDLEWARE = [
+    ................................,
+    'corsheaders.middleware.CorsMiddleware',
+    'django.middleware.common.CommonMiddleware',
+    ..................................,
+    ]
 
-# RestFrameWork_Permission
+    # RestFrameWork_Permission
 
-REST_FRAMEWORK = {
-'DEFAULT_PERMISSION_CLASSES': (
-'rest_framework.permissions.AllowAny',
-)
-}
+    REST_FRAMEWORK = {
+    'DEFAULT_PERMISSION_CLASSES': (
+    'rest_framework.permissions.AllowAny',
+    )
+    }
