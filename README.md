@@ -31,6 +31,6 @@
     
    # React
    
-   # Packages
+   ## Packages
    - axios (npm install axios)
     
